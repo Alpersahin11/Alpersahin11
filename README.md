@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">Yeni mezun bir bilgisayar mühendisi</h3>
+<h3 align="center">Bilgisayar Mühendisi</h3>
 
 - 📫 How to reach me **alpersahin6363@gmail.com**
 
